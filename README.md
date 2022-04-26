@@ -11,6 +11,7 @@ Takım X
 3: Team Member/Developer : Mehmet Emin Kaymaz
 
 4: Team Member/Developer : İçimi Demirağ
+
 5: Team Member/Developer : Atalay Çıtak
 
 # Ürün İsmi
