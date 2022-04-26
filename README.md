@@ -24,3 +24,26 @@ Takım X
 
 # Product Backlog URL
 https://trello.com/googleoyunveuygulamaakademisibootcampprojetakip/
+
+# # Sprint 1
+# Sprint Notları: x
+
+# Sprint içinde tamamlanması tahmin edilen puan: x
+
+# Puan tamamlama mantığı: x
+
+# Backlog düzeni ve Story seçimleri: x
+
+# Daily Scrum: x
+
+# Sprint board update: x
+
+# Ürün Durumu: x
+
+# Sprint Review: x
+
+# Sprint Retrospective: x
+
+# -Diğer Notlar:
+
+N/A
