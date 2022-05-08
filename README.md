@@ -33,9 +33,10 @@ Vaktini eğlenerek geçirmek isteyenler
 https://trello.com/googleoyunveuygulamaakademisibootcampprojetakip/
 
  # Sprint 1
-# Sprint Notları: x
-
-Oyun fikri kararlaştırıldı. Oyun içeriğinin zenginleştirilmesi hakkında öneriler değerlendirildi. Projenin mekan tasarımı ve denemelerine unity üzerinden başlandı.
+# Sprint Notları: 
+*Discord üzerinden ilk toplantı yapıldı.
+*Görev dağılımı yapıldı. 
+*Oyun fikri kararlaştırıldı. Oyun içeriğinin zenginleştirilmesi hakkında öneriler değerlendirildi. Projenin mekan tasarımı ve denemelerine unity üzerinden başlandı.
 
 # Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
