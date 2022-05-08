@@ -1,6 +1,6 @@
 # OyunVeUygulamaAkademisi_UnityGrup7
 # Takım İsmi
-Mınner
+Takım 7
 # Ürün ile ilgili Bilgiler
 
 # Ürün ismi
