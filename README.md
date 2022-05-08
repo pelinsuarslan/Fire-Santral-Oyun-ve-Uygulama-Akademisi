@@ -16,7 +16,9 @@ Oyuncu swipe kontrol mekaniği ile oyunu rahat bir şekilde oynayabilir
 
 # Hedef Kitle
 15 - 65 yaş arası oyuncular
+
 Oyun oynamayı sevenler
+
 Vaktini eğlenerek geçirmek isteyenler
 
 
