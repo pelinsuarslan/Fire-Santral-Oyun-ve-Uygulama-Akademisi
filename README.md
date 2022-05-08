@@ -28,13 +28,6 @@ Vaktini eğlenerek geçirmek isteyenler
 
 5: Team Member/Developer : Atalay Çıtak
 
-# Ürün İsmi
-
-# Ürün Açıklaması
-
-# Ürün Özellikleri
-
-# Hedef Kitle
 
 # Product Backlog URL
 https://trello.com/googleoyunveuygulamaakademisibootcampprojetakip/
