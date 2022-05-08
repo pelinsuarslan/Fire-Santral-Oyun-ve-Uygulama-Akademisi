@@ -35,7 +35,7 @@ XGame
 
 ## Product Backlog URL
 
-[Product Backlog Board](https://trello.com/googleoyunveuygulamaakademisibootcampprojetakip/)
+[Product Backlog Board](https://trello.com/b/GLVmDUT0/fire-santral-oyun-ve-uygulama-akademisi)
 
 ---
 
