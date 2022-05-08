@@ -1,7 +1,21 @@
 # OyunVeUygulamaAkademisi_UnityGrup7
 # Takım İsmi
-Takım X
+Mınner
 # Ürün ile ilgili Bilgiler
+
+# Ürün ismi
+Fire Santral
+# Ürün Açıklaması
+Fire Santral, hyper casual türündeki platform runner oyunumuz el ve göz konsantrasyonunu maksimum düzeyde oyuncuya kullandıracaktır. Oyuncuya heyecan ve gerilim dolu bir zaman yaşatacaktır. Bu deneyimi hiç durmadan hareket edecek olan taşıtın gelen engellerden kaçarak ve önüne çıkacak olan su deposu (Soğutma malzemeleri) toplayarak skorunu arttırabileceği şekilde tasarlanmıştır.
+# Ürün Özellikleri
+Heyecan
+Macera
+Konsantrasyon
+# Hedef Kitle
+15 - 65 yaş arası oyuncular
+Oyun oynamayı sevenler
+Vaktini eğlenerek geçirmek isteyenler
+
 
 # Takım Elemanları
 1: Product Owner : Ahmet Buğra Ertürk
