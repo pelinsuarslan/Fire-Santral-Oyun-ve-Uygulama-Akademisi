@@ -46,24 +46,20 @@ https://trello.com/googleoyunveuygulamaakademisibootcampprojetakip/
 
 -Oyun fikri kararlaştırıldı. Oyun içeriğinin zenginleştirilmesi hakkında öneriler değerlendirildi. Projenin mekan tasarımı ve denemelerine unity üzerinden başlandı.
 
-## Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 
-## Puan tamamlama mantığı: x
+### Puan tamamlama mantığı: x
 
 ## Backlog düzeni ve Story seçimleri: x
 
 # Daily Scrum: 
 Zaman problemleri yüzünden çoğunlukla whatsapp üzerinden gerçekleştirilmiş olup kısmi zamanlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.
 
-## Sprint board update: x
+### Sprint board update
 
-## Ürün Durumu: x
+### Ürün Durumu
 
-## Sprint Review: x
+### Sprint Review
 
-## Sprint Retrospective: x
-
-# -Diğer Notlar:
-
-N/A
+### Sprint Retrospective: 
