@@ -45,6 +45,23 @@ XGame
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
+-Görev dağılımı 5 puan
+
+-Benzer oyunların analiz edilmesi 10 puan
+
+-Unity proje oluşturulması 10 puan
+
+-Görev Dağılımı 10 puan
+
+-Github repo 10 puan
+
+-Karakter Kontroller denemesi 20 puan
+
+-Oyunda kullanılacak assetlerin denenmesi 10 puan
+
+-Sahne tasarımına başlanması 15 puan
+
+
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Daily Scrum**: Zaman problemleri yüzünden çoğunlukla whatsapp üzerinden gerçekleştirilmiş olup kısmi zamanlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.
