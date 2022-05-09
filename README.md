@@ -39,7 +39,8 @@ XGame
 
 ---
 
-<img width="1512" alt="Ekran Resmi 2022-05-09 15 29 17" src="https://user-images.githubusercontent.com/57010141/167410353-093e4be8-5913-4271-932d-ca9d0bb8d4ff.png">
+<img width="860" alt="Ekran Resmi 2022-05-09 15 22 12" src="https://user-images.githubusercontent.com/57010141/167410471-4da66f6b-b27f-46e1-8272-3152a22d6804.png">
+
 .
 
 # Sprint 1
