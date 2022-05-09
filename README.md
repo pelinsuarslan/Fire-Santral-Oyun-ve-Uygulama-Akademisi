@@ -39,7 +39,8 @@ XGame
 
 ---
 
-<img width="860" alt="Ekran Resmi 2022-05-09 15 22 12" src="https://user-images.githubusercontent.com/57010141/167410471-4da66f6b-b27f-46e1-8272-3152a22d6804.png">
+<img width="690" alt="Ekran Resmi 2022-05-09 22 31 43" src="https://user-images.githubusercontent.com/57010141/167483899-02186238-a0d5-4894-9d81-abe4ac1e9e1c.png">
+
 
 .
 
@@ -93,4 +94,4 @@ Alınan Kararlar: Karakter değişimi veya düzenlenmesi için veri toplanılmas
 
 # Sprint 3
 
----
+----
