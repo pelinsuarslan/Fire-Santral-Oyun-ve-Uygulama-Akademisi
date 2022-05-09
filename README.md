@@ -39,6 +39,9 @@ XGame
 
 ---
 
+<img width="1512" alt="Ekran Resmi 2022-05-09 15 29 17" src="https://user-images.githubusercontent.com/57010141/167410353-093e4be8-5913-4271-932d-ca9d0bb8d4ff.png">
+.
+
 # Sprint 1
 
 - **Sprint Notları**: Oyun fikri kararlaştırıldı. Oyun içeriğinin zenginleştirilmesi hakkında öneriler değerlendirildi. Projenin mekan tasarımı ve denemelerine unity üzerinden başlandı.
