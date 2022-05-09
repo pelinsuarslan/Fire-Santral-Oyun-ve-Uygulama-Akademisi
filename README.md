@@ -61,6 +61,7 @@ XGame
 
 -Sahne tasarımına başlanması 15 puan
 
+-Oyunda kullanılacak assetlerin denenmesi 10 puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
