@@ -94,7 +94,8 @@ XGame
 <img width="1457" alt="sahne2" src="https://user-images.githubusercontent.com/57010141/167621189-611cfc86-240d-48c1-8bcd-4fda1960e97d.png">
 <img width="1318" alt="sahne3" src="https://user-images.githubusercontent.com/57010141/167621201-0a7292ca-49be-4c4f-b254-62d73794d34e.png">
 
-# # # Oyunun güncel hali/Karakter ve Sahne tasarımı : https://drive.google.com/file/d/1AeMqlzAn69I_oNEyVnV4oRsKsPSnpP_j/view?usp=sharing
+### Oyunun güncel hali/Karakter ve Sahne tasarımı : 
+https://drive.google.com/file/d/1AeMqlzAn69I_oNEyVnV4oRsKsPSnpP_j/view?usp=sharing
 
 - **Sprint Review**: 
 Alınan Kararlar: Karakter değişimi veya düzenlenmesi için veri toplanılması kararı  verilmiştir. Karakter hareketinde ve eklenmesinde bir problem görülmemiştir. Ekstra yapılması gerekenler belirlenmiştir. Sprint Review Katılımcıları: Pelinsu Arslan, Ahmet Buğra Ertürk, Mehmet Emin Kaymaz, İçimi Demirağ, Atalay Çıtak.
