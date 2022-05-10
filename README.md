@@ -42,7 +42,7 @@ XGame
 
 
 
-.
+
 
 # Sprint 1
 
@@ -72,7 +72,7 @@ XGame
 
 - **Daily Scrum**: Zaman problemleri yüzünden çoğunlukla whatsapp üzerinden gerçekleştirilmiş olup kısmi zamanlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.
 
-- 
+
 
 <img src="https://user-images.githubusercontent.com/57010141/167609702-528af333-1351-4e6a-88c7-003122b847e8.jpg" width="200"/> |  <img src="https://user-images.githubusercontent.com/57010141/167609714-8131ebc4-fe2c-488f-8c4b-45aecc8e7c42.jpg" width="200"/> |  <img src="https://user-images.githubusercontent.com/57010141/167609725-2a25da74-1794-427a-a227-cfdda3c1865f.jpg" width="200"/>  | 
 
@@ -94,7 +94,7 @@ XGame
 <img width="1457" alt="sahne2" src="https://user-images.githubusercontent.com/57010141/167621189-611cfc86-240d-48c1-8bcd-4fda1960e97d.png">
 <img width="1318" alt="sahne3" src="https://user-images.githubusercontent.com/57010141/167621201-0a7292ca-49be-4c4f-b254-62d73794d34e.png">
 
-Oyunun güncel hali/Karakter ve Sahne tasarımı : https://drive.google.com/file/d/1AeMqlzAn69I_oNEyVnV4oRsKsPSnpP_j/view?usp=sharing
+# # # Oyunun güncel hali/Karakter ve Sahne tasarımı : https://drive.google.com/file/d/1AeMqlzAn69I_oNEyVnV4oRsKsPSnpP_j/view?usp=sharing
 
 - **Sprint Review**: 
 Alınan Kararlar: Karakter değişimi veya düzenlenmesi için veri toplanılması kararı  verilmiştir. Karakter hareketinde ve eklenmesinde bir problem görülmemiştir. Ekstra yapılması gerekenler belirlenmiştir. Sprint Review Katılımcıları: Pelinsu Arslan, Ahmet Buğra Ertürk, Mehmet Emin Kaymaz, İçimi Demirağ, Atalay Çıtak.
