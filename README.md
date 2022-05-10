@@ -73,7 +73,14 @@ XGame
 - **Daily Scrum**: Zaman problemleri yüzünden çoğunlukla whatsapp üzerinden gerçekleştirilmiş olup kısmi zamanlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları: 
- (Eklenecektir.)
+ ![IMG_5252](https://user-images.githubusercontent.com/57010141/167607892-de1c4b20-f001-4088-b63d-47c6317d1d2e.jpg)
+
+![IMG_5253](https://user-images.githubusercontent.com/57010141/167607940-a9756aef-bae8-49cb-b8c6-d05c8f5f4dcd.jpg)
+
+![IMG_5251](https://user-images.githubusercontent.com/57010141/167608055-7c5e52e2-5370-452e-918e-a403f034fd4e.jpg)
+
+![IMG_5255](https://user-images.githubusercontent.com/57010141/167608108-de94537c-a3fd-4635-bdb0-0188da2ea218.jpg)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
  (Eklenecektir.)
