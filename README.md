@@ -74,9 +74,10 @@ XGame
 
 - **Sprint board update**: Sprint board screenshotları: 
 
+<img src="https://user-images.githubusercontent.com/57010141/167609702-528af333-1351-4e6a-88c7-003122b847e8.jpg" width="200"/> |  <img src="https://user-images.githubusercontent.com/57010141/167609714-8131ebc4-fe2c-488f-8c4b-45aecc8e7c42.jpg" width="200"/> |  <img src="https://user-images.githubusercontent.com/57010141/167609725-2a25da74-1794-427a-a227-cfdda3c1865f.jpg" width="200"/>  | 
 
-![IMG_5252](https://user-images.githubusercontent.com/57010141/167608730-3264fdc4-810f-496a-afde-21887d02ce93.jpg)  |  ![IMG_5251](https://user-images.githubusercontent.com/57010141/167608796-6518cc8d-fa09-454d-8726-9ffebfef210a.jpg)
 
+<img src="https://user-images.githubusercontent.com/57010141/167612401-bd51a5e9-1c58-466e-b2f4-a899b537a13a.png" width="500"/>  | <img src="https://user-images.githubusercontent.com/57010141/167612417-d9d9c453-a21d-4e36-b5b9-5728c85e2299.jpg" width="200"/>  
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
