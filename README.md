@@ -74,7 +74,9 @@ XGame
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-![IMG_5252](https://user-images.githubusercontent.com/57010141/167608490-21edcde3-66a0-46dd-adc6-24de6ee0878d.jpg)
+
+![IMG_5252](https://user-images.githubusercontent.com/57010141/167608730-3264fdc4-810f-496a-afde-21887d02ce93.jpg)  |  ![IMG_5251](https://user-images.githubusercontent.com/57010141/167608796-6518cc8d-fa09-454d-8726-9ffebfef210a.jpg)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
