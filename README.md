@@ -66,7 +66,7 @@ XGame
 
 -Sahne tasarımına başlanması 15 puan
 
--Oyunda kullanılacak assetlerin denenmesi 10 puan
+-Karakter Animasyon denenmesi 10 puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
@@ -78,9 +78,15 @@ XGame
 
 
 <img src="https://user-images.githubusercontent.com/57010141/167612401-bd51a5e9-1c58-466e-b2f4-a899b537a13a.png" width="500"/>  | <img src="https://user-images.githubusercontent.com/57010141/167612417-d9d9c453-a21d-4e36-b5b9-5728c85e2299.jpg" width="200"/>  
+
+
+
  **Sprint board update**: Sprint board screenshotları: 
  
- <img width="690" alt="Ekran Resmi 2022-05-09 22 31 43" src="https://user-images.githubusercontent.com/57010141/167483899-02186238-a0d5-4894-9d81-abe4ac1e9e1c.png">
+ 
+ <img width="684" alt="Ekran Resmi 2022-05-10 15 17 12" src="https://user-images.githubusercontent.com/57010141/167626482-bf2de8ea-0cf4-48ea-acd4-d783d94d3fd3.png">
+
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
 <img width="687" alt="sahne1" src="https://user-images.githubusercontent.com/57010141/167621174-6036f72b-bd71-4126-b66d-fd2710324ca2.png">
