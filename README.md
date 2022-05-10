@@ -39,7 +39,7 @@ XGame
 
 ---
 
-<img width="690" alt="Ekran Resmi 2022-05-09 22 31 43" src="https://user-images.githubusercontent.com/57010141/167483899-02186238-a0d5-4894-9d81-abe4ac1e9e1c.png">
+
 
 
 .
@@ -72,13 +72,15 @@ XGame
 
 - **Daily Scrum**: Zaman problemleri yüzünden çoğunlukla whatsapp üzerinden gerçekleştirilmiş olup kısmi zamanlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.
 
-- **Sprint board update**: Sprint board screenshotları: 
+- 
 
 <img src="https://user-images.githubusercontent.com/57010141/167609702-528af333-1351-4e6a-88c7-003122b847e8.jpg" width="200"/> |  <img src="https://user-images.githubusercontent.com/57010141/167609714-8131ebc4-fe2c-488f-8c4b-45aecc8e7c42.jpg" width="200"/> |  <img src="https://user-images.githubusercontent.com/57010141/167609725-2a25da74-1794-427a-a227-cfdda3c1865f.jpg" width="200"/>  | 
 
 
 <img src="https://user-images.githubusercontent.com/57010141/167612401-bd51a5e9-1c58-466e-b2f4-a899b537a13a.png" width="500"/>  | <img src="https://user-images.githubusercontent.com/57010141/167612417-d9d9c453-a21d-4e36-b5b9-5728c85e2299.jpg" width="200"/>  
-
+ **Sprint board update**: Sprint board screenshotları: 
+ 
+ <img width="690" alt="Ekran Resmi 2022-05-09 22 31 43" src="https://user-images.githubusercontent.com/57010141/167483899-02186238-a0d5-4894-9d81-abe4ac1e9e1c.png">
 
 - **Ürün Durumu**: Ekran görüntüleri:
 <img width="687" alt="sahne1" src="https://user-images.githubusercontent.com/57010141/167621174-6036f72b-bd71-4126-b66d-fd2710324ca2.png">
