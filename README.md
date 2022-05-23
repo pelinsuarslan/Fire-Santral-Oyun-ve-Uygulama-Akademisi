@@ -109,7 +109,35 @@ Alınan Kararlar: Karakter değişimi veya düzenlenmesi için veri toplanılmas
 # Sprint 2
 
 
----
+o Do: Github Readme Sprint2, İlk Seviyenin Geliştirilmesi, Karakter Scriptinin Keyworda uygun hale getirilmesi,
+Toplanılacak Materyal Tasarımı, Toplanılacak Materyalin Kodlanması, 
+In Progress: Toplanılacak Materyal Tasarımı, Karakter Kontrol, Sahne Tasarımı, Toplanacak Materyal Script, Karakter Animasyon
+Done:Karakter kontolünün keyworda uyumlu hale getirilmesi. görev dağılımı, Toplanılacak materyallerin yerlerinin ayarlanması, Materyal hareketinin ayarlanması, Toplanılacak materyallerin denemesi,  Karakter kontrolü denemesi
+Karaktere animasyon eklenmesi
+
+
+Sprint Notları: Karakter hareket kontrolü kararlaştırıldı. Toplanılacak materyallerin ne türde olacağı kararlaştırıldı. Oyunun materyal toplama aşamasına unity üzerinden başlandı.
+
+Sprint içinde tamamlanması tahmin edilen puan: 100 puan
+- Materyal türünün kararlaştırılması 10 puan
+- Karakter kontrolünün keyworda uyumlu hale getirilmesi 20 puan
+- Karaktere animasyon eklenmesi 20 puan
+- Görev dağılımı 10 puan  
+- Toplanılacak materyallerin denemesi 20 puan
+- Karakter kontrolü denemesi 20 puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır.
+3 sprint'e bölündüğünde ikinci sprint'in 100 ile devam etmesi gerektiğine karar verildi.
+
+Daily Scrum: Görüşmeler whatsapp üzerinden gerçekleştirilmiş olup kismi zamanlı yardımlaşma amaçlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.
+
+Sprint Review: Alınan Kararlar: Karakter animasyon eklenmesi ve karakter hareketinin değiştirilmesine karar verilmiştir.
+Toplanılacak materyalin türüne karar verilmiş ve problem görülmemiştir. 
+Sprint Review Katılımcıları: Pelinsu Arslan, Ahmet Buğra Ertürk, Mehmet Emin Kaymaz, İçimiğ Demirağ, Atalay Çıtak.
+
+Sprint Retrospective:
+- Toplanılacak materyal türü ve scripti hakkında kararlar alınmıştır.
+- Karakter hareketi değiştirilmesi ve buna göre düzenlenmesi kararı alınmıştır.
 
 # Sprint 3
 
