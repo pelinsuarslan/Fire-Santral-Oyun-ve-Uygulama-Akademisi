@@ -170,34 +170,20 @@ Sprint Review Katılımcıları: Pelinsu Arslan, Ahmet Buğra Ertürk, Mehmet Em
 
 # Sprint 3
 
-# Sprint 1
 
-- **Sprint Notları**: Sprint sonunda ulaşılması beklenilen puana ulaşıldı ve oyunun tamamlandı. 
+**Sprint içinde tamamlanması tahmin edilen puan: 100 puan
 
+Oyuna levellar eklenecek. 10 puan
+Toplanan materyallerde hata alınıyor o düzeltilecek 10 puan
+Sahne geçişleri 10 puan
+Oyunun müzikleri eklenecek 10 puan
+Oyun logosu oluşturulacak. 10 puan
+Butonların konulması 10 puan
+Tanıtım videosu hazırlanacak. 10 puan
+Oyunun buildi alınacak 20 puan
 
+**Daily Scrum:** Görüşmeler whatsapp üzerinden gerçekleştirilmiş olup kismi zamanlı yardımlaşma amaçlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.Discord üzerinden yayın açıldı ve birlikte yapıldı. 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-Sprint Görevleri ve Puanları
-
-1. Oyuna levellar eklenecek. 10p
-
-2.Toplanan materyallerde hata alınıyor o düzeltilecek 10P
-
-3.Sahne geçişleri 10P
-
-4.Oyunun müzikleri eklenecek 10P
-
-5. Oyun logosu oluşturulacak. 10P
-
-
-6.Butonların konulması 10P
-
-
-7.Tanıtım videosu hazırlanacak. 10P
-
-
-8.Oyunun buildi alınacak 20P
  
  
  
