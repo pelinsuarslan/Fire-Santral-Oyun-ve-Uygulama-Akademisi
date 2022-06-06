@@ -170,4 +170,36 @@ Sprint Review Katılımcıları: Pelinsu Arslan, Ahmet Buğra Ertürk, Mehmet Em
 
 # Sprint 3
 
-----
+# Sprint 1
+
+- **Sprint Notları**: Sprint sonunda ulaşılması beklenilen puana ulaşıldı ve oyunun tamamlandı. 
+
+
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+Sprint Görevleri ve Puanları
+
+1. Oyuna levellar eklenecek. 10p
+
+2.Toplanan materyallerde hata alınıyor o düzeltilecek 10P
+
+3.Sahne geçişleri 10P
+
+4.Oyunun müzikleri eklenecek 10P
+
+5. Oyun logosu oluşturulacak. 10P
+
+
+6.Butonların konulması 10P
+
+
+7.Tanıtım videosu hazırlanacak. 10P
+
+
+8.Oyunun buildi alınacak 20P
+ 
+ 
+ 
+
+
