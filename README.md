@@ -189,6 +189,10 @@ Tanıtım videosu hazırlanacak. 10 puan
 
 Oyunun buildi alınacak 20 puan
 
+**Sprint Board
+
+https://trello.com/b/GLVmDUT0/fire-santral-oyun-ve-uygulama-akademisi
+
 **Daily Scrum:** Görüşmeler whatsapp üzerinden gerçekleştirilmiş olup kismi zamanlı yardımlaşma amaçlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.Discord üzerinden yayın açıldı ve birlikte yapıldı. 
 
 
@@ -208,6 +212,12 @@ Sprint Review Katılımcıları: Pelinsu Arslan, Ahmet Buğra Ertürk, Mehmet Em
 Oyun bitişi kararlaştırılmış ve uygulanmıştır.
 Karaktere 3.şahıs kamera takibi ve hareket scripti uygulanmıştır.
 Oyun bitiş ekranı tasarlanıp uygulanmıştır.
+
+**Ürünün son hali
+
+![WhatsApp Image 2022-06-06 at 23 45 55](https://user-images.githubusercontent.com/57010141/172251388-3679c5c5-bb11-4d02-a940-c8c19262e34c.jpeg)
+
+![WhatsApp Image 2022-06-06 at 23 45 56](https://user-images.githubusercontent.com/57010141/172251471-29a06e0a-129b-4188-adb4-7b56c9c7d857.jpeg)
 
 
 
