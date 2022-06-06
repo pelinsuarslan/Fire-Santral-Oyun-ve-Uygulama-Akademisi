@@ -220,7 +220,7 @@ Oyun bitiş ekranı tasarlanıp uygulanmıştır.
 ![WhatsApp Image 2022-06-06 at 23 45 56](https://user-images.githubusercontent.com/57010141/172251471-29a06e0a-129b-4188-adb4-7b56c9c7d857.jpeg)
 
 
-
+**Kullanılan Kaynaklar
 
 https://freesound.org/people/Misty_Audio/sounds/253718/
 https://www.kenney.nl/assets/platformer-art-candy
