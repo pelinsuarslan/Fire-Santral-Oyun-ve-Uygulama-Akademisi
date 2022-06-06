@@ -20,12 +20,26 @@ XGame
 
 - Fire Santral, hyper-casual türündeki platform runner oyunumuz el ve göz konsantrasyonunu maksimum düzeyde oyuncuya kullandıracaktır. Oyuncuya heyecan ve gerilim dolu bir zaman yaşatacaktır. Bu deneyimi hiç durmadan hareket edecek olan taşıtın gelen engellerden kaçarak ve önüne çıkacak olan su deposu (Soğutma malzemeleri) toplayarak skorunu arttırabileceği şekilde tasarlanmıştır.
 
+English explanation
+
+- Fire Santral, our hyper-casual platform runner game will make the player use the maximum level of hand and eye concentration. It will give the player a time full of excitement and tension. This experience is designed in such a way that the score can be increased by avoiding the obstacles from the vehicle that will move without stopping and by collecting the cooling materials that will come in front of it.
+
 ## Ürün Özellikleri
 
 - En yüksek skoru gösterme
 - 3D
 - Coin toplama
+- Hyper Casual
+- Kısa sürede eğlendirme
 (Ekstra özellikler diğer sprintlerde belirtilecektir.)
+
+English explanation
+- Showing the high-score
+- 3D
+- Collecting Coins
+- Hyper Casual
+- Have fun in a short time
+
 
 ## Hedef Kitle
 
@@ -33,6 +47,14 @@ XGame
 - Oyun oynamayı sevenler
 - Vaktini eğlenerek geçirmek isteyenler
 - Süre kısıtlaması olanlar
+- Yüksek hafızası olmadan eğlenmek isteyenler
+
+English explanation
+- Players aged 15 to 65
+- Those who like to play games
+- Those who want to spend their time having fun
+- Those with time restrictions
+- Those who want to have fun without high memory
 
 
 ## Product Backlog URL
