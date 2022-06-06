@@ -8,7 +8,8 @@ public class CoinCollesction : MonoBehaviour
 
     public TMP_Text _text;
     public int count=0;
-
+    public GameObject _gameOver;
+    public GameObject _fadePanel;
 
 
 
@@ -29,8 +30,21 @@ public class CoinCollesction : MonoBehaviour
             //Destroy(other.gameObject);
             other.gameObject.SetActive(false);
             click.Play();
+            if (count == 15)
+            {
+                _gameOver.SetActive(true);
+                _fadePanel.SetActive(true);
+                StartCoroutine(Fade()); 
+            }
 
         }
    
       }
+
+
+    IEnumerator Fade()
+    {
+        yield return new WaitForSeconds(1.6f);
+        Time.timeScale = 0;
+    }
 }
