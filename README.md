@@ -191,8 +191,39 @@ Oyunun buildi alınacak 20 puan
 
 **Daily Scrum:** Görüşmeler whatsapp üzerinden gerçekleştirilmiş olup kismi zamanlı yardımlaşma amaçlı olarak discord platformu üzerinden online da yüz yüze gerçekleştirilmiştir.Discord üzerinden yayın açıldı ve birlikte yapıldı. 
 
+
  
- 
+ <img width="1147" alt="Ekran Resmi 2022-06-07 00 17 53" src="https://user-images.githubusercontent.com/57010141/172250971-3b49a28b-b78d-4707-b566-1ed2f17a668b.png">
+
+
+**Sprint Review:
+
+Alınan Kararlar: Yangın söndürme tüplerini topladıktan sonra belirlenen sayıya ulaşınca oyuncu oyunun durdurulması ve victory ekranının gelmesi kararlaştırıldı. 
+Oyun arka plan sesi eklenilmesine karar verilmiştir. Kullanılacak sesin nereden alınacağı ve ne alınacağı seçilmiştir. 
+Sprint Review Katılımcıları: Pelinsu Arslan, Ahmet Buğra Ertürk, Mehmet Emin Kaymaz, İçimiğ Demirağ, Atalay Çıtak.
+
+
+**Sprint Retrospective:
+
+Oyun bitişi kararlaştırılmış ve uygulanmıştır.
+Karaktere 3.şahıs kamera takibi ve hareket scripti uygulanmıştır.
+Oyun bitiş ekranı tasarlanıp uygulanmıştır.
+
+
+
+
+https://freesound.org/people/Misty_Audio/sounds/253718/
+https://www.kenney.nl/assets/platformer-art-candy
+https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+https://assetstore.unity.com/packages/3d/animations/melee-axe-pack-35320
+https://www.kenney.nl/assets/casino-audio
+https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
+https://assetstore.unity.com/packages/3d/props/industrial/fire-extinguisher-19260
+https://assetstore.unity.com/packages/3d/props/industrial/pbr-water-collecting-tank-167379
+https://assetstore.unity.com/packages/3d/props/industrial/metal-barrel-pbr-158031
+https://assetstore.unity.com/packages/3d/props/modular-self-stand-fence-105862
+https://assetstore.unity.com/packages/3d/environments/urban/low-poly-street-pack-67475
+
  
 
 
